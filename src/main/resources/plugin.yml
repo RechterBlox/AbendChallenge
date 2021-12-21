@@ -1,0 +1,6 @@
+name: AbendChallenge
+version: 1.0
+main: de.abendreden.abendchallenge.AbendChallenge
+api-version: 1.18
+commands:
+  challenge:
